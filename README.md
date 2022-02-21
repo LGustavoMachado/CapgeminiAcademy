@@ -2,12 +2,12 @@
 
 <h1> Execute as aplicações </h1>
 
-Executar Os Arquivos:
+<h5>Como Executar os arquivos:</h5>
 
 <ul>
-  <li> Desafio1.java </li>
-  <li> Desafio2.java </li>
-  <li> Desafio3.java </li>
+  <li> Fazer download do zip.</li>
+  <li> Descompactar o arquivo.</li>
+  <li> importar o arquivo no eclipse.</li>
 </ul>
  
 <h2> O Que Foi Utilizado </h2>
